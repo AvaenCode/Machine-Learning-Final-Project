@@ -1,4 +1,4 @@
-# Machine Learning Final Project
+# Machine Learning Final Project (R-Studio)
 
 This is my machine learning project done in R-Studio. In this project I perform a total of 6 prediction algorithms, 3 of which are regression algorithms while the other 3 are classification algorithms. The first half of the project tries to create models that can help predict the price of Bitcoin using the following:
 
